@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+#### Nathan Suciu
 
-You can use the [editor on GitHub](https://github.com/NatunaSushi/resume/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
 
 ```markdown
-Syntax highlighted code block
+Assistant IT worker
+Aug 2021 – Jan 2022 
+      
+IT Dorm Freelance
+Jan 2021 – Aug 2021
 
-# Header 1
-## Header 2
-### Header 3
+“MPA News” cameraman and supervisor
+Aug 2020 – Jan 2022
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Dormitory Custodian
+Aug 2019 – Aug 2020 
+      
+Yearbook Video Director
+Aug 2020 – Jan 2022
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Skills
+```markdown
+   • Linux User for 2.5 years
+   • Arch linux user for 1 year
+   • Good with computers
+   • fun to work with
+   • knows his place
+   • general video production skills
+```
+## Contact
+nathansuciu@protonmail.com
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NatunaSushi/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
